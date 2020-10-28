@@ -14,7 +14,6 @@
         android:layout_gravity="bottom"
         android:iconTint="@color/teal_700"
         android:background="?android:attr/windowBackground"
-        app:menu="@menu/menu_navigation"
-        tools:targetApi="o" />
+        app:menu="@menu/menu_navigation"/>
 
 </FrameLayout>

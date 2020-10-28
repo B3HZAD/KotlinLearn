@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navHome"
+        android:title="خانه"
+        android:icon="@drawable/ic_icon_home"
+        android:visible="true"
+        android:iconTint="@color/teal_700"
+        />
+
+    <item
+        android:id="@+id/navVideo"
+        android:title="آموزش ها"
+        android:iconTint="@color/teal_700"
+        android:icon="@drawable/ic_icon_video"
+        />
+
+
+    <item
+        android:iconTint="@color/teal_700"
+        android:id="@+id/navAbout"
+        android:title="درباره ما"
+        android:icon="@drawable/ic_icon_about"
+        />
+
+
+    <item
+        android:iconTint="@color/teal_700"
+
+        android:id="@+id/navProject"
+        android:title="پروژه"
+        android:icon="@drawable/ic_icon_home"
+        />
+</menu>
