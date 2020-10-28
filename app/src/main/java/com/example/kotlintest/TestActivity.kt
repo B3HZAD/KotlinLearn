@@ -25,6 +25,5 @@ class TestActivity : AppCompatActivity() {
         txtAge.text=age
         txtCity.text=city
         txtSkill.text=skill
-
     }
 }
